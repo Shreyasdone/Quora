@@ -35,3 +35,15 @@ A simple RESTful web application for managing posts, built with Node.js, Express
    git clone <repository-url>
    cd REST
    ```
+2. Install dependencies
+    ```bash
+      npm install
+    ```
+3. Start the server
+    ```bash
+      node server.js
+    ```
+4. Open your browser and navigate to
+    ```bash
+      http://localhost:8000
+    ```
